@@ -40,7 +40,7 @@
 <br>
 
 ## 🌐 Portfolio  
-[Visit My Portfolio](https://gauri-tripathi.github.io/)
+[Visit My Portfolio](https://gauritripathi.vercel.app/)
 
 
 ## Connect Here!
