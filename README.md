@@ -21,20 +21,24 @@
 
 ## Languages and Tools:
 
-<span><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="Opencv"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="Kaggle"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
-<code><img height="27" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" alt="R"></span>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp">
+  <img height="27" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask">
+  <img height="27" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow">
+  <img height="27" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="Opencv">
+  <img height="27" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy">
+  <img height="27" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas">
+  <img height="27" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter">
+  <img height="27" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="Kaggle">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL">
+  <img height="27" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
+  <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal">
+  <img height="27" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" alt="R">
+
+</div>
 
 <br>
 <br>
