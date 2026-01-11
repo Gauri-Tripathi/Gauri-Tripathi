@@ -44,10 +44,12 @@ Currently working on speech-LLMs, multimodal models, and scalable training setup
 
 ## 📝 Recent Highlights
 
-- 🔍 Researching **Synthetic Data for Rare Diseases** using GANs & Hybrid Approaches  
-- ⚙️ Fine-tuned **LLaMA 3.1 with AdaLoRA**, deployed on Hugging Face + Vercel  
-- 🛠️ Built intelligent systems using **Flask + Supabase + Docker**, full-stack AI apps  
-- 🧠 Writing insightful blogs on emerging **AI trends, LLMs, and NLP techniques**  
+- 📄 Paper accepted on **Synthetic Data for Rare Diseases**, using GANs and hybrid modeling approaches  
+- 🗣️ Currently building and training **TTS systems and speech-LLMs**, focusing on architecture and training strategies  
+- ⚙️ Fine-tuned **LLaMA 3.1 with AdaLoRA**, deployed via Hugging Face.
+- 🛠️ Built end-to-end AI systems using **Flask, Supabase, and Docker**  
+- ✍️ Writing technical blogs on **LLMs, and applied ML systems**
+
 
 ---
 
