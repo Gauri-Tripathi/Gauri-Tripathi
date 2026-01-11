@@ -3,28 +3,29 @@
 </h1>
 
 <p align="center">
-  <b>A Machine Learning Engineer | Generative AI Explorer | Writer Who Thinks in Code</b><br>
-  Turning data into decisions, models into meaning, and ideas into impact.
+  <b> Working on speech models, generative AI, and applied machine learning systems.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi, I'm **Gauri Tripathi**, an ML Engineer with a strong grip on core CS fundamentals, hands-on experience building AI-powered systems, and a deep curiosity for how intelligence can be learned, simulated, and scaled. From training deep models to writing thoughtful blogs, I build, break, and rebuild ideas at the edge of innovation.
+Hi, **I'm Gauri Tripathi** — an ML engineer building speech models and generative AI systems.
+I've trained deep learning models, run large scale experiments, and built end-to-end ML pipelines.
+Currently working on speech-LLMs, multimodal models, and scalable training setups.
 
 ---
 
 ## 💡 What I Bring to the Table
 
-- 🔬 **Machine Learning & Deep Learning** – CNNs, RNNs, Transformers, LLMs, GANs
-- 🧠 **Generative AI** – Building & fine-tuning LLMs, exploring diffusion and MoE models
-- 🧮 **DSA Mastery** – Competitive programming & optimization
-- 🐍 **Languages** – Python (Primary), Java (Strong), JavaScript (Beginner)
-- 🗃️ **Databases** – PostgreSQL, MySQL, SQL (Advanced Queries & Design)
-- 🔧 **Tools & DevOps** – Git, GitHub, Docker, Supabase, Flask, Vercel
-- 🧾 **CS Core** – OS, DBMS, CN – with academic and project depth
-- ✍️ **Technical Writing** – Blogs on AI, model architectures, and system designs
+## What I Work On
+
+- Machine learning and deep learning 
+- Generative AI
+- Building and training speech models (TTS and speech-LLMs)
+- Python and Java
+- Technical writing on model architectures and training pipelines
+
 
 ---
 
